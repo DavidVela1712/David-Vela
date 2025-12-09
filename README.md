@@ -4,13 +4,13 @@
 Desarrollador con ganas de aprender y mejorar constantemente. Me interesa el desarrollo web y back, y busco aprovechar mi tiempo creando proyectos útiles, aprendiendo nuevas tecnologías y colaborando.  
 
 ## 🌱 Qué estoy haciendo ahora  
-- Explorando distintos proyectos personales y retos con JS / web.  
+- Explorando distintos proyectos personales y retos con front / back.  
 - Mejorando mi perfil con repositorios limpios, organizados y bien documentados.  
 - Aprendiendo buenas prácticas de desarrollo y control de versiones.  
 
 ## 📂 Proyectos destacados  
 
-- **Loop‑Line‑Shop** — Fork de un proyecto de la comunidad, como ejercicio práctico con JavaScript. :contentReference[oaicite:2]{index=2}
+- **Loop‑Line‑Shop** — Fork de un proyecto de la comunidad, como ejercicio práctico con JavaScript.
 
 > 💡 *Más proyectos disponibles en la sección de repositorios — te invito a curiosear.*  
 
@@ -28,7 +28,7 @@ Desarrollador con ganas de aprender y mejorar constantemente. Me interesa el des
 
 ## 📫 Contacto / Más sobre mí  
 - 🌐 GitHub: [github.com/DavidVela1712](https://github.com/DavidVela1712)  
-- LinkedIn: (www.linkedin.com/in/david-vela-28373a227)  
+- LinkedIn: [linkedin.com/in/david-vela-28373a227](www.linkedin.com/in/david-vela-28373a227)  
 - 📬 Si quieres contactarme — encantado de hablar de proyectos, ideas o aprender juntos :)
 
 Gracias por pasarte por mi perfil 👀🚀  
