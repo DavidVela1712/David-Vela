@@ -28,7 +28,7 @@ Desarrollador con ganas de aprender y mejorar constantemente. Me interesa el des
 
 ## 📫 Contacto / Más sobre mí  
 - 🌐 GitHub: [github.com/DavidVela1712](https://github.com/DavidVela1712)  
-- LinkedIn: www.linkedin.com/in/david-vela-28373a227
+- LinkedIn: www.linkedin.com/in/david-vela-miramon
 - 📬 Si quieres contactarme — encantado de hablar de proyectos, ideas o aprender juntos :)
 
 Gracias por pasarte por mi perfil 👀🚀  
